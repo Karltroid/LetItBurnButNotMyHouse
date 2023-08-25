@@ -1,0 +1,5 @@
+name: LetItBurnButNotMyHouse
+version: '${project.version}'
+main: me.karltroid.letitburnbutnotmyhouse.LetItBurnButNotMyHouse
+api-version: '1.20'
+depend: [CoreProtect]
